@@ -1,19 +1,42 @@
 body {
   position: relative;
-  border: 2px skyblue solid;
-  margin-top: 65px; 
+  border: 2px #87ceeb solid;
+  margin-top: 75px; 
   margin-left: 65px;/* Removes default margin for precise placement */
  
   }
-  
-
+  .main-content{
+    background: white ;
+    padding: 20px;
+  }
+  .main-content h1{
+    font-size: 30px;
+    color: navy;
+    text-align: center;
+  }
+  .main-content h2{
+    font-size: 21px;
+    color: yellowgreen;
+    text-align: center;
+  }
+  .main-content h3{
+    font-size: 17px;
+    color: mediumspringgreen;
+    text-align: center;
+  }
+  .main-content p{
+    font-size: 14px;
+    color: black;
+    text-align: center;
+  }
 .Mtek{
   position: absolute;
+  border: 3px solid;
   bottom: 0;
   right: 0;
   margin: 10px;
   z-index: 10;
-  width: 100px;
+  width: 250px;
 
 
 }
@@ -69,4 +92,73 @@ body {
 .top-links a:hover{
   background-color: #0056b3;
 
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: orange;
+  color: red;
+  padding: 25px;
+}
+.page-header{
+  text-align: center;
+}
+text-header h1{
+  font-size: 1.2rem;
+  color: blue;
+}
+
+.page-header p {
+  font-size: 1.2rem;
+  color: #555;
+}
+/* Service Boxes Container */
+.services-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.services-container:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Style inside Service Boxes */
+.services-container h2 {
+  font-size: 2rem;
+  color: #1a73e8;
+  margin-bottom: 15px;
+}
+
+/* Paragraph Styling for Service Descriptions */
+.services-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+/* Link Styling */
+a {
+  display: inline-block;
+  background-color: #1a73e8;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 30px;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+a:hover {
+  background-color: #0d56c9; /* Darker shade of blue */
 }
