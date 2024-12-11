@@ -1,4 +1,8 @@
-body {
+/*Here is my homepage css*/
+
+
+
+.Homepage1 body {
   position: relative;
   border: 2px #87ceeb solid;
   margin-top: 75px; 
@@ -29,6 +33,7 @@ body {
     color: black;
     text-align: center;
   }
+
 .Mtek{
   position: absolute;
   border: 3px solid;
@@ -37,9 +42,8 @@ body {
   margin: 10px;
   z-index: 10;
   width: 250px;
-
-
 }
+/* Here is logo csss*/
 .logo {
   position: fixed;
   top: 0;
@@ -51,7 +55,7 @@ body {
   z-index: 75;
   font-size: 25px;
 }
-
+/*Here is left links css*/
 .left-links{
   position: fixed;
   top: 60px;
@@ -74,6 +78,7 @@ body {
   background-color: #0056b3;
   text-decoration: underline;
 }
+/* here is top link css*/
 .top-links{
   position: fixed;
   top: 10px;
@@ -87,12 +92,14 @@ body {
   border-radius: 3px;
 }
 
-
-
 .top-links a:hover{
   background-color: #0056b3;
 
 }
+
+/* here is my what we do page css*/
+
+
 
 .What-we-do{
   margin: 0;
@@ -165,6 +172,57 @@ a {
 a:hover {
   background-color: #0d56c9; /* Darker shade of blue */
 }
+
+
+/* Here is my About us page css*/
+
+.About-us-body {
+  margin: 0;
+  padding: 0;
+  background-color: wheat;
+  text-align: center; /* Center-aligns all content */
+}
+
+h1 {
+  color: yellowgreen;
+  margin-top: 20px; /* Adds space above the heading */
+}
+
+p {
+  color: black;
+  font-size: 18px;
+  margin-top: 10px; /* Adds space between the heading and paragraph */
+}
+
+.image-container {
+  margin: 20px auto;
+  display: flex; /* Flexbox for horizontal row layout */
+  flex-wrap: wrap; /* Allows wrapping to the next line if necessary */
+  justify-content: center; /* Centers the images within the container */
+  gap: 20px; /* Adds space between images */
+}
+
+.image-card {
+  text-align: center; /* Centers image and text within each card */
+  flex: 1 1 150px; /* Ensures each image card is flexible but has a minimum width */
+  max-width: 200px; /* Limits the size of the image card */
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+  object-fit: cover; /* Ensures the image fills the circular area */
+  border-radius: 50%; /* Makes images round */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Adds subtle shadow */
+}
+
+.image-card p {
+  margin-top: 8px; /* Adds space between image and text */
+  font-size: 14px; /* Sets the font size for the description */
+  color: black; /* Text color */
+}
+
+
 
 
 
