@@ -18,18 +18,17 @@ The Mtek project's objective is to develop a fully functional, responsive, and u
 Scope: The website consists of the following core pages:
 
 Home Page:
-
 Features a brief introduction to Mtek, its digital marketing solutions, and a welcoming message for visitors.
 Includes quick links to the key services and contact information.
-About Us Page:
 
+About Us Page:
 Introduces the Mtek team and provides a detailed description of the agency’s mission, vision, and values.
 Highlights the expertise of team members and their contributions to the company's success.
-What We Do Page:
 
+What We Do Page:
 Outlines the digital marketing services provided by Mtek, including detailed sections on SEO, SMM, SEM, and Analytics & Reporting.
 Each service section describes the specific strategies, tools, and processes used by Mtek to drive business growth for its clients.
-Contact Us Page:
 
+Contact Us Page:
 Provides visitors with easy ways to get in touch with Mtek, including an email link, phone number, and a contact form for submitting inquiries.
 Allows potential clients to directly reach out for consultations and project inquiries.
