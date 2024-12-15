@@ -9,8 +9,8 @@ The aim of the project is to show how you have developed your website, the steps
 REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJECT!
 
 # Project Notes
-
-> You can use this section of the file to keep notes about your project as you work on it
+This is my original digital marketing agency website. I hope and believe that this is the start of my dream business. There is a lot on this website and I will do it in the near future.
+The goal of this web development project is to create a dynamic, adaptable website that satisfies contemporary design and functionality criteria. The project features an aesthetically pleasing UI, efficient performance, and easy-to-use navigation. The most recent web technologies, such as HTML, CSS, JavaScript, and a backend framework (such Node.js, Django, etc.), were used in the construction of the website. Its mobile-responsive design guarantees a smooth experience on all devices. Providing users with an entertaining and easy-to-use platform is the aim.
 
 # Project Summary
 Project Title: Mtek - Digital Marketing Solutions
