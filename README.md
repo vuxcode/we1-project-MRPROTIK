@@ -32,3 +32,5 @@ Each service section describes the specific strategies, tools, and processes use
 Contact Us Page:
 Provides visitors with easy ways to get in touch with Mtek, including an email link, phone number, and a contact form for submitting inquiries.
 Allows potential clients to directly reach out for consultations and project inquiries.
+
+Targeteda Audience: The website's target audience consists of startups, small and medium-sized businesses (SMBs), and other organizations looking to improve their online visibility and expand their operations through expert digital marketing services. The information is designed to appeal to decision-makers in digital strategy, marketing managers, and business owners.
