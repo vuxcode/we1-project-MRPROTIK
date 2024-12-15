@@ -13,5 +13,23 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 > You can use this section of the file to keep notes about your project as you work on it
 
 # Project Summary
+Project Title: Mtek - Digital Marketing Solutions
+The Mtek project's objective is to develop a fully functional, responsive, and user-friendly digital marketing website that highlights the agency's offerings. Search engine optimization (SEO), social media marketing (SMM), search engine marketing (SEM), analytics, and reporting are among the digital marketing services the agency offers, and the website is made to give information about them. It seeks to draw in new clients and make communication with the Mtek staff simple.
+Scope: The website consists of the following core pages:
 
-> Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
+Home Page:
+
+Features a brief introduction to Mtek, its digital marketing solutions, and a welcoming message for visitors.
+Includes quick links to the key services and contact information.
+About Us Page:
+
+Introduces the Mtek team and provides a detailed description of the agency’s mission, vision, and values.
+Highlights the expertise of team members and their contributions to the company's success.
+What We Do Page:
+
+Outlines the digital marketing services provided by Mtek, including detailed sections on SEO, SMM, SEM, and Analytics & Reporting.
+Each service section describes the specific strategies, tools, and processes used by Mtek to drive business growth for its clients.
+Contact Us Page:
+
+Provides visitors with easy ways to get in touch with Mtek, including an email link, phone number, and a contact form for submitting inquiries.
+Allows potential clients to directly reach out for consultations and project inquiries.
